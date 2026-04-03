@@ -1,1 +1,4 @@
+ HEAD
 feature branch version
+=======
+master branch versiomaster
